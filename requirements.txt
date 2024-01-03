@@ -4,5 +4,5 @@ numpy==1.21.2
 matplotlib==3.4.3
 scikit-learn==0.24.2
 requests==2.26.0
-streamlit_lottie==0.0.9
+streamlit_lottie==0.0.5
 Pillow==8.3.1
