@@ -1,3 +1,0 @@
-streamlit
-lottie 
-pandas>2.0
